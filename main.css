@@ -1,0 +1,40 @@
+.checked{
+	color: black;
+}
+.tarefas{
+	margin: 50px 50px 50px 50px;
+	align-content: center; 
+}
+.tarefas_re{
+	margin: 50px 50px 50px 260px;
+	align-content: center;
+}
+.listas{
+	display:flex;
+	align-items: center;
+}
+.divs{
+	flex: 2;
+}
+.card {
+	width: 99,9vw;
+	height: 30vh;
+	background: rgba(108, 122, 137, 0.842);
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+h1 {
+	font-family: Arial;
+	font-size: 32px;
+	text-align: center;
+	color: #5f5959;
+  }
+  
+  
+body{
+	background: rgba(70, 76, 83, 0.274);
+}
